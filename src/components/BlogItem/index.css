@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.title-date {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-title {
+  color: #12022f;
+  font-family: 'Roboto';
+}
+
+.published-date {
+  color: #616e7c;
+}
+
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+
+.horizontal-line {
+  color: #616e7c;
+  width: 100%;
+}
